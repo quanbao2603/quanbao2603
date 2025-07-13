@@ -51,8 +51,8 @@
 
 - 📧 Email: [nguyenquanbao2632005@gmail.com](mailto:nguyenquanbao2632005@gmail.com)
 - 💼 LinkedIn: [Nguyễn Quân Bảo](https://www.linkedin.com/in/nguyễn-quân-bảo)
-- 📘 Facebook: [Jake Nguyen](https://www.facebook.com/jake.nguyen.3762)
-- 📺 YouTube: [@quan_bao](https://www.youtube.com/@quan_bao)
+- 📘 Facebook: [Nguyễn Quân Bảo](https://www.facebook.com/jake.nguyen.3762)
+- 📺 YouTube: [WOM](https://www.youtube.com/@quan_bao)
 
 ---
 
