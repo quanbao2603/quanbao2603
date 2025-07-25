@@ -48,8 +48,8 @@
 ## 📬 Contact Me
 
 - 📧 Email: [nguyenquanbao2632005@gmail.com](mailto:nguyenquanbao2632005@gmail.com)
-- 💼 LinkedIn: [Nguyen Quan Bao](https://www.linkedin.com/in/nguyễn-quân-bảo)
-- 📘 Facebook: [Nguyen Quan Bao](https://www.facebook.com/jake.nguyen.3762)
+- 💼 LinkedIn: [Nguyễn Quân Bảo](https://www.linkedin.com/in/nguyễn-quân-bảo)
+- 📘 Facebook: [Nguyễn Quân Bảo](https://www.facebook.com/jake.nguyen.3762)
 - 📺 YouTube: [WOM](https://www.youtube.com/@quan_bao)
 
 ---
