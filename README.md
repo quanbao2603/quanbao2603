@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Quân Bảo</h1>
 
 <p align="center">
-  </strong> | 🧪 Pentester | 💻 Developer  
+  </strong> 🧪 Pentester | 💻 Developer  
   <br>
   <em>"Talk is cheap, show me your code."</em>
 </p>
