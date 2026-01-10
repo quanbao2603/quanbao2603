@@ -1,17 +1,10 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Quân Bảo</h1>
 
 <p align="center">
-  🛡️ <strong>Cybersecurity Engineer</strong> | 🧪 Pentester | 💻 Developer  
+  </strong> | 🧪 Pentester | 💻 Developer  
   <br>
   <em>"Talk is cheap, show me your code."</em>
 </p>
-
----
-
-### 🧠 About Me
-- 🔐 Cybersecurity Engineer passionate about **Pentesting** & **Secure Development**  
-- ⚙️ Focused on **System Programming**, **Performance Optimization**, and **Security Research**  
-- 🌱 Always learning, always breaking, always building  
 
 ---
 
