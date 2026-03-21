@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Quân Bảo</h1>
 
 <p align="center">
-  </strong> 🧪 Pentester | 💻 Developer  
+  <strong>☁️ Cloud Computing Engineer | 💻 Software Engineer</strong>
   <br>
   <em>"Talk is cheap, show me your code."</em>
 </p>
@@ -10,7 +10,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,rust,js,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,python,java,cpp,cs&theme=dark" />
 </p>
 
 ---
