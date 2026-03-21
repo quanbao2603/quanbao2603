@@ -18,16 +18,16 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanbao2603&theme=tokyonight&hide_border=true&v=1" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true" width="49%">
 </p>
 
 ---
 
 ### 📬 Contact
 - 📧 [nguyenquanbao2632005@gmail.com](mailto:nguyenquanbao2632005@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nguyễn-quân-bảo)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nguyenquanbao)  
 - 📘 [Facebook](https://www.facebook.com/jake.nguyen.3762)  
-- 📺 [YouTube](https://www.youtube.com/@quan_bao)
+- 📺 [YouTube](https://www.youtube.com/@who_is_wom)
 
 ---
 
