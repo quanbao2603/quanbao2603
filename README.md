@@ -17,12 +17,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;v=1" height="195" alt="stats" />
+  <img src="https://streak-stats.demolab.com/?user=quanbao2603&amp;theme=tokyonight&amp;hide_border=true" height="195" alt="streak" />
 </p>
 
 ---
