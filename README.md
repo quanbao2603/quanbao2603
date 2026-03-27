@@ -17,7 +17,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="195" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true&v=2" height="195" alt="GitHub Streak" />
 </p>
 
