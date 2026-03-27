@@ -10,16 +10,16 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,python,java,cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,python,java,cpp,cs&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true" width="49%">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</div>
 
 ---
 
