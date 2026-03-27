@@ -16,10 +16,14 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=quanbao2603&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=quanbao2603&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
